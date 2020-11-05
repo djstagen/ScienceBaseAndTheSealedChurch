@@ -1,0 +1,3 @@
+Title: The Sealed Church
+
+This map consists of a science base surrounding a sealed off church. The science base has light military. Your goal is to break into the sealed off church. Inside the church...
