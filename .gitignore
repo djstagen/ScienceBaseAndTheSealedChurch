@@ -11,4 +11,6 @@
 !*/
 
 # if the files to be tracked are in subdirectories
+!QuakeDev/id1/Maps/testlevel.map
+!QuakeDev/id1/Maps/sealedchurch.map
 !*/a/b/c/*
